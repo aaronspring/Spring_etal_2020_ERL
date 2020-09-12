@@ -1,6 +1,6 @@
-# Spring et al. 2020, manuscript in prep.
+# Spring et al. 2020
 
-The paper is still in the process of writing and has not been submitted yet.
+The paper is submitted to Environmental Research Letters.
 
 ## Aim
 
