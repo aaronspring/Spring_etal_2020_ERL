@@ -1,0 +1,5 @@
+xarray
+matplotlib
+cartopy
+xskillscore
+python-cdo
