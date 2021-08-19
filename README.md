@@ -1,6 +1,6 @@
-# Spring et al. 2020
+# Spring et al., 2020, ERL
 
-The paper is submitted to Environmental Research Letters.
+The paper is published in Environmental Research Letters: https://iopscience.iop.org/article/10.1088/1748-9326/abc443
 
 ## Aim
 
@@ -34,4 +34,4 @@ The results in this paper were obtained using a number of different software pac
 
 ## Environment
 
-Dependencies (Packages installed) can be found in `requirements.txt` (conda list). Installed via conda (see setup `conda_info.txt`) and pip.
+Dependencies (Packages installed) can be found in `requirements.txt` (conda list in `requirements_final.txt`). Installed via conda (see setup `conda_info.txt`) and pip.
